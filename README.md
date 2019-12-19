@@ -1,4 +1,4 @@
-# Welcome to this repositry. in this repository we done so many project during my intership in Aeon Learning Pvt. Ltd as a Data-Analyst
+# Welcome to this repositry. in this repository we have done so many project during my intership in Aeon Learning Pvt. Ltd as a Data-Analyst
 ## Role and responsibility:-
 ## Skill Set:
 Languages: Python, SQL, PL/SQL, HTML
