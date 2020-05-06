@@ -1,4 +1,4 @@
-# Welcome to this repository. in this repository, we have done so many projects during my internship in Aeon Learning Pvt. Ltd as a Data-Analyst
+# Welcome to this repository. in this repository, we have done so many projects during my internship. as a Data-Analyst
 ## Role and Responsibility:-
 • To perform Exploratory Data analysis, Data Preparation, Statistical analysis, model selection, and implementation to achieve optimized   business solutions.
 •	Interpret data, analyze results using statistical techniques and provide ongoing reports
